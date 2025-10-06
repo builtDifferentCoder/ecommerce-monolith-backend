@@ -9,5 +9,4 @@ public class EcommerceMonolithApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EcommerceMonolithApplication.class, args);
 	}
-
 }
